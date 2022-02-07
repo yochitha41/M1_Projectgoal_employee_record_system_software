@@ -84,8 +84,8 @@ By selecting the neccesary option we can enter the input of an employee and stor
    Here I am mentioning the detal method of my software 
 
      * Add record: 
-           * In Add record section I had created a function called "Position".
-           * After adding the record you can type Y/N option to enter the new record.
+           1) In Add record section I had created a function called "Position".
+           2) After adding the record you can type Y/N option to enter the new record.
          
      * List record:
            * In list record section the output will be shown in a phased manner .
