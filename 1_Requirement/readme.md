@@ -41,7 +41,7 @@ In my Project there are some features which will be easy to the handler to store
 * Weakness:
 
    * Need not mention the space between two words (strings) 
-   * we cannot search the particular employee detail in this application
+   * we cannot search the particular employee detail in deeper manner
 
 # 4W's and 1H
 

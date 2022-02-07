@@ -1,1 +1,2 @@
-Need to write the code of Employee record system
+Had menioned the code of Employee record system in C language
+
