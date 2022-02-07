@@ -14,6 +14,7 @@ In my Project there are some features which will be easy to the handler to store
  * Adding the employee data in the record 
  * Showing the List of all employees data in the record 
  * Modify the employee name in the records
+ * Searching the employee name in the records
  * Delete the employee data in the record
  * Exit the application 
 
