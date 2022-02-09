@@ -9,20 +9,14 @@
  * 
  */
 
-#include <stdio.h> ///for input output functions like printf, scanf
+// #include <stdio.h> ///for input output functions like printf, scanf
 #include <stdlib.h>
 #include <conio.h>
 #include <windows.h> ///for windows related functions (not important)
 #include <string.h>  ///string operations
-
+#include "position.h"
 /** List of Global Variable */
 COORD coordinates = {0,0}; /// top-left corner of window
-void position(int x,int y)
-{
-    coordinates.X = x;
-    coordinates.Y = y;
-    SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE),coordinates);
-}
 
 /** Main function started */
 
